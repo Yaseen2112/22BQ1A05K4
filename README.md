@@ -20,6 +20,7 @@
 ## Installation
 
 1. Clone this repository:git clone https://github.com/Yaseen2112/airdraw.git
+
     cd airdraw
 
 2. Install dependencies:
@@ -76,4 +77,5 @@ MIT License
 ---
 
 Feel free to reach out for feedback, custom features, or collaboration!
+
 
