@@ -19,13 +19,10 @@
 
 ## Installation
 
-1. Clone this repository:
-
-git clone https://github.com/Yaseen2112/airdraw.git
-cd airdraw
+1. Clone this repository:git clone https://github.com/Yaseen2112/airdraw.git
+    cd airdraw
 
 2. Install dependencies:
-
 pip install -r requirements.txt
 
 
@@ -34,7 +31,6 @@ pip install -r requirements.txt
 ## Usage
 
 Start the app:
-
 python air_draw.py
 
 
@@ -80,3 +76,4 @@ MIT License
 ---
 
 Feel free to reach out for feedback, custom features, or collaboration!
+
